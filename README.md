@@ -1,2 +1,2 @@
-# roomE
+# CampusCrib
 a living-space listing website to find roommates living nearby
